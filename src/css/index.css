@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+.mt {
+  margin-top: 30px;
+}
+.w-200 {
+  width: 400px;
+}
+.ml {
+  margin-left: 50px;
+}
+.ml3 {
+  margin-left: 400px;
+}
+.mt3 {
+  margin-top: 60px;
+}
+.h-200 {
+  height: 200px;
+}
+.mb {
+  margin-bottom: 50px;
+}
+.ml2 {
+  margin-left: 20px;
+}
+.background {
+  background-color: rgb(239, 241, 241);
+}
+.fontsize {
+  font-size: large;
+}
+.mr {
+  margin-right: 20px;
+}
+.mr2 {
+  margin-right: 450px;
+}
+.ml-p {
+  margin-left: 400px;
+}
+.mt2 {
+  margin-top: 50px;
+}
